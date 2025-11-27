@@ -1,8 +1,6 @@
 package com.AyushSinghAssingment.GeofenceEventProcessing.Model;
 
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data

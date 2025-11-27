@@ -3,8 +3,6 @@ package com.AyushSinghAssingment.GeofenceEventProcessing.Controller;
 import com.AyushSinghAssingment.GeofenceEventProcessing.DTOs.EventResponse;
 import com.AyushSinghAssingment.GeofenceEventProcessing.DTOs.LocationEvent;
 import com.AyushSinghAssingment.GeofenceEventProcessing.Model.VehicleState;
-import com.AyushSinghAssingment.GeofenceEventProcessing.Model.Zone;
-import com.AyushSinghAssingment.GeofenceEventProcessing.Model.ZoneEvents;
 import com.AyushSinghAssingment.GeofenceEventProcessing.Repository.VehicleRepository;
 import com.AyushSinghAssingment.GeofenceEventProcessing.Repository.ZoneEventRepository;
 import com.AyushSinghAssingment.GeofenceEventProcessing.Service.EventService;

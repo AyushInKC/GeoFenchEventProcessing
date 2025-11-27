@@ -1,3 +1,5 @@
 spring:
-  data:
-    mongodb: mongodb+srv://sirfayush1008:Ayush%403344@cluster0.ngtgm.mongodb.net/GeoFence?retryWrites=true&w=majority
+  mongodb:
+    uri: mongodb+srv://sirfayush1008:Ayush%403344@cluster0.ngtgm.mongodb.net/GeoFence?retryWrites=true&w=majority
+    database: GeoFence
+  
